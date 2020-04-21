@@ -1,0 +1,9 @@
+Câu 4:
+-Khi Điện Thoại đang chạy bấm nút Back sẽ hiển thị Phương thức : onPause, onStop, ondestroy.
+-Sau đó mở lại ấn dụng sẽ hiển thị phương thức : onCreate, onstart, onRemuse.
+Câu 5:
+-Khi Điện Thoại đang chạy bấm nút Home sẽ hiển thị Phương thức : onPause, onStop.
+-Sau đó mở lại ấn dụng sẽ hiển thị phương thức : onRestart, onstart, onRemuse.
+Câu 6:
+-Thực hiện phương thức: onSaveInstanceState
+Vì : onSaveInstanceState sẽ lưu giữ lại trạng thái của activity
